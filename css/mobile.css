@@ -1,0 +1,38 @@
+.Age_container{
+    width: 360px;
+}
+
+.block{
+    width: 25%;
+}
+
+input{
+    width: 70px;
+    padding: 5px;
+    border: 1px solid  rgb(114, 112, 112);
+    margin-bottom: 4rem;
+}
+
+input::placeholder{
+    font-size: 13px;
+    font-weight: 800;
+}
+
+.submit_box{
+    position: relative;
+    margin-bottom: 3rem;
+}
+
+.submit_box .btn{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+}
+
+.output h1{
+    font-size: 3rem;
+   
+}
+
+
